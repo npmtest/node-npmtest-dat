@@ -1,6 +1,6 @@
 # npmtest-dat
 
-#### test coverage for  [dat (v12.0.3)](https://datproject.org)  [![npm package](https://img.shields.io/npm/v/npmtest-dat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dat.svg)](https://travis-ci.org/npmtest/node-npmtest-dat)
+#### basic test coverage for  [dat (v12.0.3)](https://datproject.org)  [![npm package](https://img.shields.io/npm/v/npmtest-dat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dat.svg)](https://travis-ci.org/npmtest/node-npmtest-dat)
 
 #### Dat is the package manager for data. Easily share and version control data.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-dat/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-dat/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-dat/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-dat/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dat/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dat/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-dat/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-dat/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dat/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dat/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-dat/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-dat/build/coverage.html/index.html)
 
